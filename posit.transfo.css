@@ -40,7 +40,7 @@ li {
     line-height: 28px;
     color: #2F281E;
     position: relative;
-    left: 100px;
+    left: 300px;
 }
 button {
     max-width: 102px;
@@ -182,4 +182,26 @@ button {
     left: 250px;
     top: -300px;
     font-size: 10px;
+}
+.validation-part {
+    display: flex;
+    width: 850px;
+    height: 600px;
+    position: relative;
+    top: 270px;
+    flex-direction: row;
+    background-color: #FFFFFF;
+}
+.text-info {
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.design-text {
+    font-size: 30px;
+    position: relative;
+    top: -25px;
+}
+.define-text {
+    position: relative;
+    top: -20px;
 }

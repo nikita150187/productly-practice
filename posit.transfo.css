@@ -311,3 +311,62 @@ height: 40px;
     position: relative;
     top: -20px;
 }
+.Footer-part {
+    width: 1109px;
+    height: 400px;
+    background-color: #FFFFFF;
+    position: relative;
+    top: 400px;
+    right: 500px;
+    display: flex;
+    gap: 50px;
+    font-size: 30px;
+    align-self: flex-end;
+    font-family: poppins;
+    
+}
+.logo-img {
+    align-self: center;
+}
+.Quick-Links {
+    position: relative;
+    left: 200px;
+    align-self: flex-end;
+    font-size: 25px;
+    
+}
+.Legal-stuff{
+    position: relative;
+    left: 200px;
+    align-self: flex-end;
+    font-size: 25px;
+}
+.Registratin-login {
+    align-self: flex-end;
+    display: flex;
+    flex-direction: row;
+}
+.empty-box {
+    position: relative;
+    bottom: 70px;
+    left: 300px;
+    width: 330px;
+    height: 48px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    border-color: #BCD0E5;
+
+}
+.btn-sing-up {
+    background-color: #FF9900;
+    border-radius: 5px;
+    position: relative;
+    left: -30px;
+    top: 0px;
+    width: 200px;
+    height: 50px;
+    color: #FFFFFF;
+    border: none;
+
+    
+}

@@ -191,6 +191,7 @@ button {
     top: 270px;
     flex-direction: row;
     background-color: #FFFFFF;
+    gap: 30px;
 }
 .text-info {
     flex-direction: column;
@@ -204,4 +205,20 @@ button {
 .define-text {
     position: relative;
     top: -20px;
+}
+
+.manager-container {
+    display: flex;
+    width: 950px;
+    height: 600px;
+    position: relative;
+    top: 270px;
+    flex-direction: row;
+    background-color:#FFFFFF;
+    justify-content: space-between;
+    gap: 30px;
+}
+.div-manager-img {
+width: 40px;
+height: 40px;
 }

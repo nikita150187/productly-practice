@@ -116,24 +116,70 @@ button {
     top: -450px;
 }
 .feature-container {
-width: 400px;
-height: 30px;
-position: relative;
-left: 300px;
+    width: 400px;
+    height: 100px;
+    position: relative;
+    left: 300px;
+    
+
 }
 .main-title {
     font-family: poppins;
-    font-size: 30px;
+    font-size: 25px;
 }
+
 .card {
-    width: 1095px;
-    height: 400px;
+    width: 650px;
+    height: 170px;
     background-color: aqua;
     border: 10px;
     border-color: black;
     position: relative;
     right: 100px;
+    
+}
+.logo {
+    width: 05px;
+    height: 05px;
+
 }
 .card-1 {
-    width: 240px;
-    height: 170px;}
+    width: 150px;
+    height: 120px;  
+}
+.card-2{
+    width: 170px;
+    height: 120px;
+    position: relative;
+    left: 150px;
+    top: -120px;
+
+}
+.card-3 {
+    width: 150px;
+    height: 120px;
+    position: relative;
+    left: 330px;
+    top: -240px;
+    
+}
+.card-4 {
+    width: 150px;
+    height: 120px;
+    position: relative;
+    left: 500px;
+    top: -360px; 
+}
+
+.btn-sign-up {
+    color: #FFFFFF;
+    background-color: #FF9900;
+    border-radius: 5px;
+    border: none;
+    width: 200px;
+    height: 30px;
+    position: relative;
+    left: 250px;
+    top: -300px;
+    font-size: 10px;
+}

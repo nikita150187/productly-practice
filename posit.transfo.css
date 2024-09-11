@@ -120,7 +120,7 @@ button {
     height: 100px;
     position: relative;
     left: 300px;
-    
+
 
 }
 .main-title {
@@ -221,4 +221,38 @@ button {
 .div-manager-img {
 width: 40px;
 height: 40px;
+}
+.Text {
+    font-size: 20px;
+    position: relative;
+    top: 80px;
+}
+.design-making {
+    font-size: 20px;
+}
+.prodc-mangr {
+    font-size: 35px;
+    position: relative;
+    top: -20px;
+}
+.myspace {
+    position: relative;
+    top: -20px;
+}
+.icon-info {
+    align-items: center;
+    gap: 10px;
+}
+.icon-text-1 {
+    display: flex;
+}
+.icon-text-2 {
+    display: flex;
+    position: relative;
+    top: 30px;
+}
+.icon-text-3 {
+    display: flex;
+    position: relative;
+    top: 50px;
 }

@@ -1,6 +1,7 @@
 body {
 font-family: poppins;
-width: 80;
+width: 1400px;
+height: 3843px;
 display: flex;
 align-items: right;
 justify-content: flex-start;
@@ -184,6 +185,7 @@ button {
     font-size: 10px;
 }
 .validation-part {
+    font-family: poppins;
     display: flex;
     width: 850px;
     height: 600px;
@@ -196,6 +198,7 @@ button {
 .text-info {
     flex-direction: column;
     justify-content: space-evenly;
+    font-weight: lighter;
 }
 .design-text {
     font-size: 30px;
@@ -255,4 +258,56 @@ height: 40px;
     display: flex;
     position: relative;
     top: 50px;
+}
+
+.validation-part {
+    font-family: poppins;
+    display: flex;
+    width: 850px;
+    height: 600px;
+    position: relative;
+    top: 270px;
+    flex-direction: row;
+    background-color: #FFFFFF;
+    gap: 30px;
+}
+.text-info {
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-weight: lighter;
+}
+.design-text {
+    font-size: 30px;
+    position: relative;
+    top: -25px;
+}
+.define-text {
+    position: relative;
+    top: -20px;
+}
+.marketers-part{
+    font-family: poppins;
+    display: flex;
+    width: 850px;
+    height: 600px;
+    position: relative;
+    top: 270px;
+    right: 500px;
+    flex-direction: row;
+    background-color: #FFFFFF;
+    gap: 30px;
+}
+.text-info {
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-weight: lighter;
+}
+.design-text {
+    font-size: 30px;
+    position: relative;
+    top: -25px;
+}
+.define-text {
+    position: relative;
+    top: -20px;
 }

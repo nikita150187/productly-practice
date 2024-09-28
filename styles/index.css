@@ -206,3 +206,51 @@ header{
     width: 520px;
     height: 573px;
 }
+/* manager-container*/
+
+
+.manager-section{
+    padding: 30px var(--padding-inline-secion) 0;
+
+}
+.manager-feature-container{
+    gap: 30px;
+    flex-direction: column;
+    display: flex;
+}
+.manager-feature-desc{
+    flex-direction: column;
+}
+.manager-feature-img{
+    width: 520px;
+    height: 573px;
+}
+
+
+/* maketers feature section*/
+.marketers-feature-section{
+    padding: 30px var(--padding-inline-secion) 0;
+}
+.marketers-feature-container{
+    gap: 30px;
+    flex-direction: column;
+    
+}
+.marketers-feature-desc{
+    flex-direction: column;
+
+}
+.marketers-feature-img{
+    width: 520px;
+    height: 573px;
+}
+
+/* footer */
+.link-column{
+    flex-direction: column;
+    align-items: flex-start;
+}
+.footer-container{
+    align-items: flex-start;
+    justify-content: space-between;
+}

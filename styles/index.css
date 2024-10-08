@@ -75,6 +75,16 @@ nav {
 .sign-up:hover {
 	background-color: darkorange;
 }
+.orang-play-btn img{
+	cursor: pointer;
+	margin-left: 10px;
+}
+
+.orang-play-btn:hover{
+	background-color: darkorange;
+
+}
+
 
 .font-poppins {
 	font-family: 'Poppins', sans-serif;
